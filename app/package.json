@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vitejs/plugin-vue-jsx": "^3.1.0",
     "cesium": "^1.115.0",
     "sass": "^1.71.1",
+    "vite-plugin-cesium": "^1.2.22",
     "vue": "^3.4.19"
   },
   "devDependencies": {
